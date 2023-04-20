@@ -1,6 +1,6 @@
 #https://www.youtube.com/watch?v=FUSDhjjKO80
 # Learn how to create cmd line tools
-# we need to add functionality too - this is just cmd interface making - doesnt even work right now
+# we need to add functionality too - this is just cmd interface making - doesnt even work right noww
 import argparse
 import socket
 import shlex
